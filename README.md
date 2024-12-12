@@ -1,1 +1,1 @@
-# SAMC21_EIC_I2C_TempSensor
+# SAMC21 EIC I2C TempSensor
